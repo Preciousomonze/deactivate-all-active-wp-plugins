@@ -2,7 +2,8 @@
 This file just helps easily deactivate all your active plugins on your wordpress site. that's all, it's pretty straight forward 💆🏽‍♂💅🏼
 ### All you need to do 🤓
 - Make sure you copy or download the file "wp-pk-deactivate-all-plugins.php" and put it in your home directory, i.e same directory where wp-config.php file is.
-- Then run the file in your browser e.g. http://mywpsite.com/wp-pk-deactivate-all-plugins.php
+- Then run the file in your browser e.g. http://mywpsite.com/wp-pk-deactivate-all-plugins.php assuming the file is in the main directory of the wordpress site, i.e same location where wp-config.php is.
+- Don't tell me you tried clicking the example link above, if you did, smh 😪
 
 ### You might ask(maybe this is an FAQ) "what's the use? 🙄
 ##### There could be situations such as the ones listed below.
