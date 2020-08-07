@@ -2,8 +2,9 @@
  /**
   * File to deactivate all active plugins
   * Note: this file must be in the same directory as your wp-config.php file
-  * @author Precious Omonzejele <omonze@peepsipi.com>
-  * @author URI https://github.com/preyous
+  *
+  * @author Precious Omonzejele <me@codexplorer.ninja>
+  * @author URI https://github.com/preciousomonze
   */
   if(!file_exists("wp-config.php")){
 	  $wa_msg = "Hi Precious, why can't you find my wp-config.php file 😰";
